@@ -15,8 +15,8 @@ Projeyi kurmak ve çalıştırmak için aşağıdaki adımları takip edin:
 1. **Reposu Klonlayın**
 
     ```bash
-    git clone  https://github.com/berkayderin/Hotel-Api-Nodejs.git
-    cd Hotel-Api-Nodejs
+    git clone  https://github.com/gamzesirin/Nodejs-HotelApi.git
+    cd Nodejs-HotelApi
     ```
 
 2. **Bağımlılıkları Yükleyin**
